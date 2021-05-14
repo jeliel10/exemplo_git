@@ -11,4 +11,6 @@ package br.com.fafic.engSoftwareII.git;
  */
 public class Pessoa {
     
+    private String nome;
+    
 }
